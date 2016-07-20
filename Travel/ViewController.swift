@@ -36,7 +36,7 @@ class ViewController: UIViewController {
         
         let cancelAction = UIAlertAction(title: "Cancelar ", style: .default, handler: nil)
         
-        helloViajero.text = "Nombre Pasajero:: \(namePassenger.text!) destino seleccionado: \(nameDestino.text!) Felíz Viaje!!!"
+        helloViajero.text = "Nombre Pasajero:: \(namePassenger.text!) destino seleccionado: \(nameDestino.text!), Felíz Viaje!!!"
         
         
         
